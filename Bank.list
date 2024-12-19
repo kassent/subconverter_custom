@@ -70,7 +70,8 @@ DOMAIN,data-api.similarsites.com
 DOMAIN,s.go-mpulse.net
 DOMAIN,ndcdyn.interactivebrokers.com
 DOMAIN,api.ibkr.com
-DOMAIN,assets.lbkrs.com #长桥证券
+DOMAIN,assets.lbkrs.com
+#长桥证券
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,ibkr.com
@@ -412,12 +413,21 @@ DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 DOMAIN-KEYWORD,paypal
 
-DOMAIN-KEYWORD,livibank #理慧银行
-DOMAIN-KEYWORD,futu #富途牛牛
-DOMAIN-KEYWORD,airstarbank #天星银行
-DOMAIN-KEYWORD,bochk #中国银行（香港）
-DOMAIN-KEYWORD,ocbc.com #新加坡华侨银行1
-DOMAIN-KEYWORD,ocbc.data.adobedc.net #新加坡华侨银行2
-DOMAIN-SUFFIX,hsbc.com.hk #香港上海汇丰银行
-DOMAIN-KEYWORD,hangseng #香港恒生银行1
-DOMAIN-SUFFIX,hangseng.com.hk #香港恒生银行2
+DOMAIN-KEYWORD,livibank 
+#理慧银行
+DOMAIN-KEYWORD,futu 
+#富途牛牛
+DOMAIN-KEYWORD,airstarbank 
+#天星银行
+DOMAIN-KEYWORD,bochk 
+#中国银行（香港）
+DOMAIN-KEYWORD,ocbc.com 
+#新加坡华侨银行1
+DOMAIN-KEYWORD,ocbc.data.adobedc.net 
+#新加坡华侨银行2
+DOMAIN-SUFFIX,hsbc.com.hk 
+#香港上海汇丰银行
+DOMAIN-KEYWORD,hangseng 
+#香港恒生银行1
+DOMAIN-SUFFIX,hangseng.com.hk 
+#香港恒生银行2
